@@ -10,7 +10,9 @@ Crafted a dynamic 4-page website on Elon Musk using CSS, grids, flex, transition
 ![image](https://github.com/gulnaazshaikh149/Elon-Musk-Research-Website/assets/88612483/f7cc6e0c-28d7-410d-b70f-86ac06052013)
 # Companies
 ![image](https://github.com/gulnaazshaikh149/Elon-Musk-Research-Website/assets/88612483/7e235835-a36c-4990-8750-d1710d247c95)
+
 This page also includes JavaScript button- Readmore which allows user to avoid scrolling through a ton of information and gives freedom to read only the company they are interested in.
+
 ![image](https://github.com/gulnaazshaikh149/Elon-Musk-Research-Website/assets/88612483/4d5df16e-2691-4a2d-8ec8-8b490a2835ec)
 
 
